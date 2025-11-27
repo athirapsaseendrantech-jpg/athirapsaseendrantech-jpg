@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Athira P Saseendran</h1>
+<h1 align="center"> Athira P Saseendran</h1>
 <h3 align="center">BCA Student | Aspiring Cybersecurity & Ethical Hacking Professional</h3>
 
 ---
